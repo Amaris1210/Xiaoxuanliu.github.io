@@ -12,7 +12,7 @@ title                    : "Xiaoxuan's Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoxuan (Amaris) Liu"
 description              : &description "Master of Engineering in Financial Engineering Student at Cornell University"
-url                      : https://Xiaoxuanliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiaoxuanliu.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Amaris1210/Xiaoxuanliu.github.io"
 
