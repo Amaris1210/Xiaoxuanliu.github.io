@@ -21,7 +21,7 @@ repository               : "Amaris1210/xiaoxuanliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Headshot_small.jpg"
+  avatar           : "Headshot_small.jpg"
   name             : "Xiaoxuan (Amaris) Liu"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
