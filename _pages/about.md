@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-![Me](graduation.jpg){: .align-right width="300px"}
 
 🌐 I’m a final year graduate in Financial Engineering at Cornell University, where I merge my love for finance and technology to pioneer innovative solutions in the field.
 
