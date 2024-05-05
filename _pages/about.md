@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![Me in campus](graduation.jpg){: .align-right}
+![Me in campus](graduation.jpg){: .align-right width="300px"}
 🌐 I’m a final year graduate in Financial Engineering at Cornell University, where I merge my love for finance and technology to pioneer innovative solutions in the field.
 
 🔍 My academic journey is complemented by a robust practical understanding through internships across prestigious institutions and roles ranging from quantitative finance to investment strategies and financial technology.
@@ -17,7 +17,7 @@ redirect_from:
 # Academic Experience
 
 ## 📈 Research and Academia
-I have worked on diverse research projects including machine learning classification of bank customers, sentiment analysis on restaurant reviews, and open-end funds rating using PCA-SVM models. My academic excellence is underpinned by a perfect GPA at Cornell and significant achievements at Beijing Normal University and the University of Pennsylvania.
+I have worked on diverse research projects including machine learning classification of bank customers, sentiment analysis on restaurant reviews, and open-end funds rating using machine learning models. My academic excellence is underpinned by a perfect academic performance at Cornell and significant achievements at Beijing Normal University and the University of Pennsylvania.
 
 # Finance Contributions
 
