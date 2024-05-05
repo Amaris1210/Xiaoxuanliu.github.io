@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![Me in campus](graduation.jpg){: .align-right width="300px"}
+![Me in campus](/images/graduation.jpg){: .align-right width="300px"}
 🌐 I’m a final year graduate in Financial Engineering at Cornell University, where I merge my love for finance and technology to pioneer innovative solutions in the field.
 
 🔍 My academic journey is complemented by a robust practical understanding through internships across prestigious institutions and roles ranging from quantitative finance to investment strategies and financial technology.
